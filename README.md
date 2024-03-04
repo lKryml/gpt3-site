@@ -1,3 +1,23 @@
+
+
+
+
+![2024-03-04_201840](https://github.com/lKryml/react-gpt3-site/assets/103531991/4853c628-fb2c-4886-87df-9cf7d5e3de6c)
+![2024-03-04_201851](https://github.com/lKryml/react-gpt3-site/assets/103531991/8e1bf8c4-8642-4a22-bb9b-e1acc0d1e447)
+![2024-03-04_201905](https://github.com/lKryml/react-gpt3-site/assets/103531991/5176f961-e956-46ad-b46e-85f4a413cbbb)
+![2024-03-04_201921](https://github.com/lKryml/react-gpt3-site/assets/103531991/a152cad2-bd5a-4b89-ab91-58161168cf5d)
+
+
+
+![2024-03-04_201932](https://github.com/lKryml/react-gpt3-site/assets/103531991/d2d3466e-66ba-4643-9d9c-3deb49868850)
+![2024-03-04_201830](https://github.com/lKryml/react-gpt3-site/assets/103531991/e814a2b6-4ee2-4f73-bcb1-a9a520e1efc3)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
